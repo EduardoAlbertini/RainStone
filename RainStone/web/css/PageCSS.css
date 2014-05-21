@@ -1,0 +1,36 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+#content {
+    padding: 15px;
+    float:right;
+    width:80%;
+}
+
+#sidebar {
+    padding: 15px;
+    float:left;
+    width:15%;
+    
+}
+
+#footer {
+    padding: 15px;
+    clear:both;
+    position: relative;
+    bottom: 0;
+    text-align: center;
+    width: 95%;   
+}
+
+hostsFisicos {
+    float: left;
+}
+
+.host {
+    width: 100px;
+    float: left;
+    display: inline-block;
+}
